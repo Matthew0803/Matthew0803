@@ -1,3 +1,8 @@
+# 💫 About Me:
+- My main focuses are full-stack development, embedded systems and robotics
+- Mechatronics Engineering at the University of Waterloo
+- Currently working on self-driving car at WATonomous
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/matthew-wong83) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/12Matthew354999) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mattwong0803@gmail.com) 
