@@ -5,16 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthew0803" alt="matthew0803" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/12matthew354999" target="blank"><img src="https://img.shields.io/twitter/follow/12matthew354999?logo=twitter&style=for-the-badge" alt="12matthew354999" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://matthew-portfolio-production.up.railway.app/](https://matthew-portfolio-production.up.railway.app/)
 
+- 📫 How to reach me **mattwong0803@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/12matthew354999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="12matthew354999" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matthew-wong83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-wong83" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/l6e 0l8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="l6e 0l8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
