@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthew0803" alt="matthew0803" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://matthew-portfolio-production.up.railway.app/](https://matthew-portfolio-production.up.railway.app/)
